@@ -65,7 +65,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 - 🤖 3. Use os prompts de artes no `midjourney`
 
 ## 🎙️ Podcast BatPapo – A Caverna da Cultura Nerd 
-<p align="center">
+<p align="left">
 <img 
     src="./assets/Batman podcaster.png"
     width="100"
@@ -73,7 +73,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
     href="https://www.notion.so/BatPapo-A-Caverna-da-Cultura-Nerd-298aba823963805e96e9e826b7878cb1?source=copy_link">
     BatPapo – A Caverna da Cultura Nerd
 </a>
-/>
+p/>
 
 
 ## 👨‍💻 Expert
