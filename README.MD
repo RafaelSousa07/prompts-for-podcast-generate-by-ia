@@ -70,10 +70,12 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
     src="./assets/Batman podcaster.png"
     width="100"
 p/>
-<a 
-    href="https://www.notion.so/BatPapo-A-Caverna-da-Cultura-Nerd-298aba823963805e96e9e826b7878cb1?source=copy_link">
-    BatPapo – A Caverna da Cultura Nerd
-</a>
+<p
+    <a 
+        href="https://www.notion.so/BatPapo-A-Caverna-da-Cultura-Nerd-298aba823963805e96e9e826b7878cb1?source=copy_link">
+        BatPapo – A Caverna da Cultura Nerd
+    </a>
+p/>
 
 
 ## 👨‍💻 Expert
