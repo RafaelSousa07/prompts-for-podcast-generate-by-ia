@@ -75,7 +75,7 @@ p/>
         href="https://www.notion.so/BatPapo-A-Caverna-da-Cultura-Nerd-298aba823963805e96e9e826b7878cb1?source=copy_link">
         BatPapo – A Caverna da Cultura Nerd
     </a>
-/>
+</p>
 
 
 ## 👨‍💻 Expert
